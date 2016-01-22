@@ -1,2 +1,6 @@
 Hii this is new file
+<<<<<<< HEAD
 This line is added from master branch
+
+This line is added from another branch
+>>>>>>> another
